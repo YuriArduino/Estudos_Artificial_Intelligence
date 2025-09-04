@@ -1,2 +1,2 @@
-# Estudos_Intelig-ncia_Artificial
+# Estudos_Inteligência_Artificial
 Estudos e testes envolvendo inteligência artificial
